@@ -1,0 +1,357 @@
+{
+  "nav": {
+    "brand": "SL Transport",
+    "brandSub": "Transport Sri Lanka",
+    "airlines": "Avions",
+    "railway": "Train",
+    "bus": "Bus",
+    "other": "Autres",
+    "findRoutes": "Trouver des Itinéraires"
+  },
+  "hero": {
+    "badge": "Réseau de Transport du Sri Lanka",
+    "title": "Sri Lanka",
+    "titleHighlight": "Services de Transport",
+    "subtitle": "Toutes les informations de transport en un seul endroit - vols, trains, bus et plus",
+    "ctaPrimary": "Trouver des Services",
+    "ctaSecondary": "Trouver des Itinéraires",
+    "stats": {
+      "airports": "Aéroports",
+      "routes": "Lignes Ferroviaires",
+      "busRoutes": "Lignes de Bus",
+      "service": "Service"
+    }
+  },
+  "airlines": {
+    "badge": "Services Aériens",
+    "title": "Services",
+    "titleHighlight": "Aériens",
+    "description": "Le principal aéroport du Sri Lanka est l'Aéroport International Bandaranaike à Katunayake. De là, vous pouvez voyager vers diverses destinations dans le monde.",
+    "airlines": {
+      "title": "Compagnies Aériennes",
+      "srilankan": {
+        "name": "SriLankan Airlines",
+        "description": "Transporteur national du Sri Lanka",
+        "routes": "Asie, Europe, Moyen-Orient"
+      },
+      "fitsair": {
+        "name": "FitsAir",
+        "description": "Service aérien privé",
+        "routes": "Vols intérieurs et régionaux"
+      },
+      "cinnamon": {
+        "name": "Cinnamon Air",
+        "description": "Service aérien intérieur",
+        "routes": "Destinations intérieures"
+      }
+    },
+    "airports": {
+      "title": "Détails des Aéroports",
+      "cmb": {
+        "name": "Aéroport International Bandaranaike",
+        "location": "Katunayake",
+        "distance": "35km de Colombo"
+      },
+      "hri": {
+        "name": "Aéroport International Mattala Rajapaksa",
+        "location": "Mattala",
+        "distance": "District de Hambantota"
+      },
+      "rml": {
+        "name": "Aéroport de Ratmalana",
+        "location": "Ratmalana",
+        "distance": "15km de Colombo"
+      }
+    },
+    "website": "Visitez le site web pour plus de détails"
+  },
+  "railway": {
+    "badge": "Services Ferroviaires",
+    "title": "Services",
+    "titleHighlight": "Ferroviaires",
+    "description": "Le Sri Lanka exploite 7 lignes ferroviaires. C'est l'un des voyages en train les plus pittoresques au monde.",
+    "routes": {
+      "title": "Principales Lignes",
+      "upcountry": {
+        "name": "Ligne des Hautes Terres",
+        "from": "Colombo",
+        "to": "Badulla",
+        "via": "Kandy, Nuwara Eliya",
+        "duration": "8-10 heures",
+        "price": "Rs. 300 - 2,000",
+        "description": "L'un des voyages en train les plus pittoresques au monde"
+      },
+      "coastal": {
+        "name": "Ligne Côtière",
+        "from": "Colombo",
+        "to": "Matara",
+        "via": "Galle",
+        "duration": "2-3 heures",
+        "price": "Rs. 240 - 1,400",
+        "description": "Magnifiques vues sur l'Océan Indien"
+      },
+      "northern": {
+        "name": "Ligne du Nord",
+        "from": "Colombo",
+        "to": "Jaffna",
+        "via": "Anuradhapura",
+        "duration": "6-8 heures",
+        "price": "Rs. 500 - 2,800",
+        "description": "Voyage vers des villes historiques"
+      },
+      "eastern": {
+        "name": "Ligne de l'Est",
+        "from": "Colombo",
+        "to": "Batticaloa",
+        "via": "Polonnaruwa",
+        "duration": "5-7 heures",
+        "price": "Rs. 400 - 3,000",
+        "description": "Accès à la côte est"
+      }
+    },
+    "specialTrains": {
+      "title": "Services de Trains Spéciaux",
+      "ella": {
+        "name": "Ella Odyssey",
+        "description": "Train touristique avec arrêts photo spéciaux",
+        "schedule": "Mercredis et Samedis",
+        "features": ["Cascade Horsetail", "Pont des Neuf Arches", "Vue sur le Pic d'Adam"]
+      },
+      "calypso": {
+        "name": "Train Calypso",
+        "description": "Circuit Badulla - Bandarawela",
+        "schedule": "Tous les jours",
+        "features": ["5 arrêts photo", "Gare de Demodara", "Plantations de thé"]
+      },
+      "nightmail": {
+        "name": "Courrier de Nuit",
+        "description": "Train de nuit avec couchettes de 1ère classe",
+        "schedule": "Nuit",
+        "features": ["Compartiments à 2 couchettes", "Voitures-lits", "Voiture-restaurant"]
+      }
+    },
+    "classes": {
+      "title": "Classes de Billets",
+      "first": {
+        "name": "1ère Classe",
+        "price": "Élevé",
+        "features": ["Climatisation", "Places réservées", "Confortable"]
+      },
+      "second": {
+        "name": "2ème Classe",
+        "price": "Moyen",
+        "features": ["Réservé/Non réservé", "Ventilateur", "Confort de base"]
+      },
+      "third": {
+        "name": "3ème Classe",
+        "price": "Bas",
+        "features": ["Non réservé", "Expérience locale", "Économique"]
+      }
+    },
+    "schedule": "Voir l'Horaire des Trains"
+  },
+  "bus": {
+    "badge": "Services de Bus",
+    "title": "Services de",
+    "titleHighlight": "Bus",
+    "description": "Le mode de transport le plus populaire au Sri Lanka est le service de bus. Choisissez parmi SLTB et divers services de bus privés.",
+    "types": {
+      "sltb": {
+        "name": "Bus SLTB",
+        "description": "Bus du Conseil des Transports du Sri Lanka",
+        "features": ["Prix bas", "Grand réseau", "Service régulier"]
+      },
+      "private": {
+        "name": "Bus Privés",
+        "description": "Services de bus privés rapides",
+        "features": ["Rapide", "Fréquent", "Arrêts limités"]
+      },
+      "semiLuxury": {
+        "name": "Semi-Luxe",
+        "description": "Bus avec suspension pneumatique",
+        "features": ["Climatisation", "Rapide", "Confortable"]
+      },
+      "luxury": {
+        "name": "Bus de Luxe",
+        "description": "Service entièrement luxueux",
+        "features": ["Climatisation complète", "Vitres teintées", "Sièges inclinables"]
+      }
+    },
+    "popularRoutes": {
+      "title": "Itinéraires Populaires",
+      "colomboKandy": {
+        "from": "Colombo",
+        "to": "Kandy",
+        "time": "3-4 heures",
+        "price": "Rs. 200-500"
+      },
+      "colomboGalle": {
+        "from": "Colombo",
+        "to": "Galle",
+        "time": "2-3 heures",
+        "price": "Rs. 300-800"
+      },
+      "colomboKataragama": {
+        "from": "Colombo",
+        "to": "Kataragama",
+        "time": "6-7 heures",
+        "price": "Rs. 500-1200"
+      }
+    },
+    "terminals": {
+      "title": "Principaux Terminaux de Bus",
+      "fort": {
+        "name": "Gare Routière de Colombo Fort",
+        "location": "Colombo Fort",
+        "routes": "Itinéraires longue distance"
+      },
+      "pettah": {
+        "name": "Gare Routière de Pettah",
+        "location": "Pettah",
+        "routes": "Local et longue distance"
+      },
+      "maharagama": {
+        "name": "Gare Routière de Maharagama",
+        "location": "Maharagama",
+        "routes": "Bus locaux"
+      }
+    },
+    "tips": {
+      "title": "Conseils",
+      "tip1": "Évitez les heures de pointe: 7-9h et 16h30-20h",
+      "tip2": "Gardez vos biens en sécurité pendant les heures chargées",
+      "tip3": "Les bus express sont marqués en lettres rouges",
+      "tip4": "Payez le tarif au contrôleur"
+    }
+  },
+  "other": {
+    "badge": "Autres Transports",
+    "title": "Autres Services de",
+    "titleHighlight": "Transport",
+    "description": "Tuk-tuks, taxis, locations de voitures et autres alternatives de transport",
+    "services": {
+      "tuktuk": {
+        "name": "Tuk-Tuk",
+        "description": "Transport le plus populaire au Sri Lanka",
+        "features": ["Tuk-Tuks à compteur", "PickMe Tuk", "Uber Tuk", "Expérience locale"],
+        "price": "Rs. 50-100 par km"
+      },
+      "taxi": {
+        "name": "Services de Taxi",
+        "description": "Services de taxi fiables",
+        "features": ["Kangaroo Cabs", "PickMe", "Uber", "Transferts aéroport"],
+        "price": "Rs. 100-200 par km"
+      },
+      "carRental": {
+        "name": "Locations de Voitures",
+        "description": "Location avec ou sans chauffeur",
+        "features": ["Location sans chauffeur", "Avec chauffeur", "Journalier/Hebdomadaire", "Tous types de véhicules"],
+        "price": "Rs. 3000+ par jour"
+      },
+      "bikeRental": {
+        "name": "Locations de Motos",
+        "description": "Scooters et motos",
+        "features": ["Scooters", "Motos", "Horaire/Journalier", "Flexible"],
+        "price": "Rs. 1000+ par jour"
+      },
+      "van": {
+        "name": "Services de Van",
+        "description": "Pour voyages en groupe",
+        "features": ["Transferts aéroport", "Tours", "Voyage en groupe", "Confortable"],
+        "price": "Rs. 5000+ par jour"
+      },
+      "boat": {
+        "name": "Services de Bateau",
+        "description": "Vers la côte et les îles",
+        "features": ["Services de ferry", "Bateaux touristiques", "Observation de baleines", "Île hopping"],
+        "price": "Rs. 500+ par trajet"
+      }
+    },
+    "apps": {
+      "title": "Applications de VTC",
+      "pickme": {
+        "name": "PickMe",
+        "description": "Application VTC #1 du Sri Lanka",
+        "features": ["Tuk, Voiture, Van, Moto", "Livraison de nourriture", "Espèce/Sans espèce", "Suivi en direct"],
+        "rating": "4.5★",
+        "downloads": "5M+"
+      },
+      "uber": {
+        "name": "Uber",
+        "description": "Service VTC international",
+        "features": ["Voiture, Tuk", "Paiement par carte", "Application mondiale", "Fiable"],
+        "rating": "4.3★",
+        "downloads": "1B+"
+      },
+      "kangaroo": {
+        "name": "Kangaroo Cabs",
+        "description": "Service de taxi traditionnel sri-lankais",
+        "features": ["Taxis à compteur", "Réservation par téléphone", "Fiable", "Professionnel"],
+        "rating": "4.4★",
+        "downloads": "100K+"
+      }
+    },
+    "tips": {
+      "title": "Conseils Importants",
+      "tuktuk": {
+        "title": "En utilisant le Tuk-Tuk:",
+        "tip1": "Vérifiez si le compteur fonctionne au départ",
+        "tip2": "Convenez du prix d'abord s'il n'y a pas de compteur",
+        "tip3": "PickMe ou Uber est recommandé"
+      },
+      "taxi": {
+        "title": "En utilisant le Taxi:",
+        "tip1": "Appelez Kangaroo Cabs au 011-2588588",
+        "tip2": "Réservez à l'avance pour les trajets aéroport",
+        "tip3": "PickMe est plus populaire en zone urbaine"
+      }
+    }
+  },
+  "routePlanner": {
+    "badge": "Recherche d'Itinéraire",
+    "title": "Planifiez Votre",
+    "titleHighlight": "Voyage",
+    "description": "Entrez le départ et la destination pour trouver le mode de transport le plus approprié",
+    "form": {
+      "from": "De",
+      "to": "À",
+      "date": "Date",
+      "placeholder": "Sélectionner l'emplacement",
+      "search": "Rechercher"
+    },
+    "results": {
+      "title": "Options Disponibles",
+      "bus": {
+        "name": "Bus",
+        "duration": "4-5 heures"
+      },
+      "train": {
+        "name": "Train",
+        "duration": "3-4 heures"
+      },
+      "flight": {
+        "name": "Vol",
+        "duration": "30 minutes"
+      }
+    },
+    "quickLinks": {
+      "schedule": "Horaire",
+      "fares": "Tarifs",
+      "booking": "Réservation",
+      "support": "Support"
+    }
+  },
+  "footer": {
+    "description": "Informations complètes sur les transports au Sri Lanka en un seul endroit. Vols, trains, bus et toutes les autres informations de transport.",
+    "quickLinks": "Liens Rapides",
+    "resources": "Ressources",
+    "contact": "Contact",
+    "address": "Conseil des Transports du Sri Lanka, Colombo 10, Sri Lanka",
+    "phone": "+94 11 2588 588",
+    "email": "info@transport.lk",
+    "copyright": "© 2025 Services de Transport du Sri Lanka. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions",
+    "policy": "Politique"
+  }
+}

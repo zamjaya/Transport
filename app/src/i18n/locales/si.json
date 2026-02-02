@@ -1,0 +1,357 @@
+{
+  "nav": {
+    "brand": "SL Transport",
+    "brandSub": "ශ්‍රී ලංකා ප්‍රවාහන",
+    "airlines": "ගුවන්",
+    "railway": "දුම්රිය",
+    "bus": "බස්",
+    "other": "වෙනත්",
+    "findRoutes": "මාර්ග සොයන්න"
+  },
+  "hero": {
+    "badge": "ශ්‍රී ලංකා ප්‍රවාහන ජාලය",
+    "title": "ශ්‍රී ලංකාවේ",
+    "titleHighlight": "ප්‍රවාහන සේවා",
+    "subtitle": "ගුවන්, දුම්රිය, බස් රථ සහ වෙනත් සියලුම ප්‍රවාහන තොරතුරු එකම ස්ථානයකින්",
+    "ctaPrimary": "සේවා සොයන්න",
+    "ctaSecondary": "මාර්ග සොයන්න",
+    "stats": {
+      "airports": "ගුවන් තොටුපළ",
+      "routes": "දුම්රිය මාර්ග",
+      "busRoutes": "බස් මාර්ග",
+      "service": "සේවාව"
+    }
+  },
+  "airlines": {
+    "badge": "ගුවන් සේවා",
+    "title": "ගුවන් යානා",
+    "titleHighlight": "සේවා",
+    "description": "ශ්‍රී ලංකාවේ ප්‍රධාන ගුවන් තොට වන්නේ කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටයි. මෙයින් ලෝකයේ විවිධ ස්ථාන වලට ගමන් කළ හැක.",
+    "airlines": {
+      "title": "ගුවන් සේවා",
+      "srilankan": {
+        "name": "ශ්‍රී ලන්කන් එයාර්ලයින්ස්",
+        "description": "ශ්‍රී ලංකාවේ ජාතික ගුවන් සේවාව",
+        "routes": "ආසියාව, යුරෝපය, මධ්‍යම පෙරදිග"
+      },
+      "fitsair": {
+        "name": "ෆිට්ස් එයාර්",
+        "description": "පෞද්ගලික ගුවන් සේවාව",
+        "routes": "දේශීය හා කලාපීය ගමන්"
+      },
+      "cinnamon": {
+        "name": "සිනමන් එයාර්",
+        "description": "දේශීය ගුවන් සේවාව",
+        "routes": "දේශීය ගමන් බලාපොරොත්තු"
+      }
+    },
+    "airports": {
+      "title": "ගුවන් තොටුපළ විස්තර",
+      "cmb": {
+        "name": "බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොට",
+        "location": "කටුනායක",
+        "distance": "කොළඹ සිට කි.මී. 35"
+      },
+      "hri": {
+        "name": "මත්තල රාජපක්ෂ ජාත්‍යන්තර ගුවන් තොට",
+        "location": "මත්තල",
+        "distance": "හම්බන්තොට දිස්ත්‍රික්කය"
+      },
+      "rml": {
+        "name": "රත්මලාන ගුවන් තොට",
+        "location": "රත්මලාන",
+        "distance": "කොළඹ සිට කි.මී. 15"
+      }
+    },
+    "website": "තවත් විස්තර සඳහා වෙබ් අඩවියට පිවිසෙන්න"
+  },
+  "railway": {
+    "badge": "දුම්රිය සේවා",
+    "title": "දුම්රිය",
+    "titleHighlight": "සේවා",
+    "description": "ශ්‍රී ලංකාවේ දුම්රිය මාර්ග 7ක් ක්‍රියාත්මක වේ. මෙය ලෝකයේ වඩාත්ම scenic දුම්රිය ගමන් වලින් එකකි.",
+    "routes": {
+      "title": "ප්‍රධාන මාර්ග",
+      "upcountry": {
+        "name": "උඩරට මාර්ගය",
+        "from": "කොළඹ",
+        "to": "බදුල්ල",
+        "via": "මහනුවර, නුවරඑළිය",
+        "duration": "පැය 8-10",
+        "price": "රු. 300 - 2,000",
+        "description": "ලෝකයේ වඩාත්ම scenic දුම්රිය ගමන් වලින් එකකි"
+      },
+      "coastal": {
+        "name": "වෙරළබඩ මාර්ගය",
+        "from": "කොළඹ",
+        "to": "මාතර",
+        "via": "ගාල්ල",
+        "duration": "පැය 2-3",
+        "price": "රු. 240 - 1,400",
+        "description": "මනෝහර ඉන්දීය සාගර දර්ශන"
+      },
+      "northern": {
+        "name": "උතුරු මාර්ගය",
+        "from": "කොළඹ",
+        "to": "යාපනය",
+        "via": "අනුරාධපුරය",
+        "duration": "පැය 6-8",
+        "price": "රු. 500 - 2,800",
+        "description": "ඓතිහාසික නගර වලට ගමන්"
+      },
+      "eastern": {
+        "name": "නැගෙනහිර මාර්ගය",
+        "from": "කොළඹ",
+        "to": "මඩකලපුව",
+        "via": "පොළොන්නරුව",
+        "duration": "පැය 5-7",
+        "price": "රු. 400 - 3,000",
+        "description": "නැගෙනහිර වෙරළට ප්‍රවේශය"
+      }
+    },
+    "specialTrains": {
+      "title": "විශේෂ දුම්රිය සේවා",
+      "ella": {
+        "name": "ඇල්ල ඔඩිසි",
+        "description": "සංචාරක දුම්රිය - විශේෂ ඡායාරූප නැවතුම්",
+        "schedule": "බදාදා සහ සෙනසුරාදා",
+        "features": ["උම්බලකඩවල දියඇල්ල", "ආරුක්කු 9 පාලම", "ශ්‍රී පාද දර්ශනය"]
+      },
+      "calypso": {
+        "name": "කැලිප්සෝ දුම්රිය",
+        "description": "බදුල්ල - බණ්ඩාරවෙල roundtrip",
+        "schedule": "දිනපතා",
+        "features": ["ඡායාරූප නැවතුම් 5", "දෙමෝදර ස්ථානය", "තේ වතු"]
+      },
+      "nightmail": {
+        "name": "නයිට් මේල්",
+        "description": "නිදාගත දුම්රිය - 1වන පන්ති sleepers",
+        "schedule": "රාත්‍රී",
+        "features": ["2-berth compartments", "Sleeping cars", "Buffet car"]
+      }
+    },
+    "classes": {
+      "title": "පන්ති වර්ග",
+      "first": {
+        "name": "1 වන පන්තිය",
+        "price": "ඉහළ",
+        "features": ["AC", "Reserved seats", "Comfortable"]
+      },
+      "second": {
+        "name": "2 වන පන්තිය",
+        "price": "මධ්‍යම",
+        "features": ["Reserved/Unreserved", "Fan", "Basic comfort"]
+      },
+      "third": {
+        "name": "3 වන පන්තිය",
+        "price": "අඩු",
+        "features": ["Unreserved", "Local experience", "Economic"]
+      }
+    },
+    "schedule": "දුම්රිය කාලසටහන බලන්න"
+  },
+  "bus": {
+    "badge": "බස් රථ සේවා",
+    "title": "බස් රථ",
+    "titleHighlight": "සේවා",
+    "description": "ශ්‍රී ලංකාවේ වඩාත්ම ජනප්‍රිය ප්‍රවාහන ක්‍රමය බස් රථ සේවාවයි. SLTB සහ විවිධ පෞද්ගලික බස් සේවා වලින් තෝරා ගත හැක.",
+    "types": {
+      "sltb": {
+        "name": "SLTB බස්",
+        "description": "ශ්‍රී ලංකා ප්‍රවාහන මණ්ඩලයේ බස් රථ",
+        "features": ["අඩු මිල", "විශාල ජාලය", "සාමාන්‍ය සේවාව"]
+      },
+      "private": {
+        "name": "පුද්ගලික බස්",
+        "description": "වේගවත් පුද්ගලික බස් සේවා",
+        "features": ["වේගවත්", "නිතර ධාවනය", "සීමිත නැවතුම්"]
+      },
+      "semiLuxury": {
+        "name": "අර්ධ සුඛෝපභෝගී",
+        "description": "පරිසර පාලක සහිත බස්",
+        "features": ["AC", "වේගවත්", "ආරාමදායක"]
+      },
+      "luxury": {
+        "name": "සුඛෝපභෝගී බස්",
+        "description": "පූර්ණ සුඛෝපභෝගී සේවාව",
+        "features": ["Full AC", "Tinted Windows", "Reclining Seats"]
+      }
+    },
+    "popularRoutes": {
+      "title": "ජනප්‍රිය මාර්ග",
+      "colomboKandy": {
+        "from": "කොළඹ",
+        "to": "මහනුවර",
+        "time": "පැය 3-4",
+        "price": "රු. 200-500"
+      },
+      "colomboGalle": {
+        "from": "කොළඹ",
+        "to": "ගාල්ල",
+        "time": "පැය 2-3",
+        "price": "රු. 300-800"
+      },
+      "colomboKataragama": {
+        "from": "කොළඹ",
+        "to": "කතරගම",
+        "time": "පැය 6-7",
+        "price": "රු. 500-1200"
+      }
+    },
+    "terminals": {
+      "title": "ප්‍රධාන බස් නැවතුම්",
+      "fort": {
+        "name": "කොළඹ කොටුව බස් නැවතුම",
+        "location": "කොළඹ කොටුව",
+        "routes": "දුර බස් මාර්ග"
+      },
+      "pettah": {
+        "name": "පේට්ටහ බස් නැවතුම",
+        "location": "පේට්ටහ",
+        "routes": "අභ්‍යන්තර හා දුර බස්"
+      },
+      "maharagama": {
+        "name": "මහරගම බස් නැවතුම",
+        "location": "මහරගම",
+        "routes": "අභ්‍යන්තර බස්"
+      }
+    },
+    "tips": {
+      "title": "උපදෙස්",
+      "tip1": "උදෑසන 7-9 සහ සවස 4.30-8 දක්වා තදබදයක් ඇත - මග හරින්න",
+      "tip2": "අධික තදබදයේදී ඔබේ දේපළ ප්‍රවේශමෙන් තබා ගන්න",
+      "tip3": "Express බස් රථ රතු අකුරින් සලකුණු කර ඇත",
+      "tip4": "ගමන් මුදල කොන්දොස්තරවරයාට ගෙවන්න"
+    }
+  },
+  "other": {
+    "badge": "වෙනත් ප්‍රවාහන",
+    "title": "වෙනත්",
+    "titleHighlight": "ප්‍රවාහන සේවා",
+    "description": "ත්‍රිරෝද රථ, ටැක්සි, කුලී රථ සහ වෙනත් ප්‍රවාහන විකල්ප",
+    "services": {
+      "tuktuk": {
+        "name": "ත්‍රිරෝද රථ",
+        "description": "ශ්‍රී ලංකාවේ වඩාත්ම ජනප්‍රිය ප්‍රවාහන ක්‍රමය",
+        "features": ["Meter Tuk-Tuks", "PickMe Tuk", "Uber Tuk", "Local experience"],
+        "price": "රු. 50-100 per km"
+      },
+      "taxi": {
+        "name": "ටැක්සි සේවා",
+        "description": "විශ්වසනීය ටැක්සි සේවා",
+        "features": ["Kangaroo Cabs", "PickMe", "Uber", "Airport transfers"],
+        "price": "රු. 100-200 per km"
+      },
+      "carRental": {
+        "name": "මෝටර් රථ කුලී",
+        "description": "ස්වයං ධාවන හෝ රියදුරු සහිත",
+        "features": ["Self-drive", "With driver", "Daily/Weekly", "All vehicle types"],
+        "price": "රු. 3000+ per day"
+      },
+      "bikeRental": {
+        "name": "මෝටර් සයිකල් කුලී",
+        "description": "Scooters සහ motorcycles",
+        "features": ["Scooters", "Motorcycles", "Hourly/Daily", "Flexible"],
+        "price": "රු. 1000+ per day"
+      },
+      "van": {
+        "name": "වැන් සේවා",
+        "description": "කණ්ඩායම් ගමන් සඳහා",
+        "features": ["Airport transfers", "Tours", "Group travel", "Comfortable"],
+        "price": "රු. 5000+ per day"
+      },
+      "boat": {
+        "name": "බෝට්ටු සේවා",
+        "description": "වෙරළට සහ දූපත් වලට",
+        "features": ["Ferry services", "Tourist boats", "Whale watching", "Island hopping"],
+        "price": "රු. 500+ per trip"
+      }
+    },
+    "apps": {
+      "title": "Ride-Hailing Apps",
+      "pickme": {
+        "name": "PickMe",
+        "description": "ශ්‍රී ලංකාවේ #1 ride-hailing යෙදුම",
+        "features": ["Tuk, Car, Van, Bike", "Food delivery", "Cash/Cashless", "Live tracking"],
+        "rating": "4.5★",
+        "downloads": "5M+"
+      },
+      "uber": {
+        "name": "Uber",
+        "description": "ජාත්‍යන්තර ride-hailing සේවාව",
+        "features": ["Car, Tuk", "Card payment", "Global app", "Reliable"],
+        "rating": "4.3★",
+        "downloads": "1B+"
+      },
+      "kangaroo": {
+        "name": "Kangaroo Cabs",
+        "description": "පාරම්පරික ශ්‍රී ලාංකික ටැක්සි සේවාව",
+        "features": ["Meter taxis", "Phone booking", "Reliable", "Professional"],
+        "rating": "4.4★",
+        "downloads": "100K+"
+      }
+    },
+    "tips": {
+      "title": "වැදගත් උපදෙස්",
+      "tuktuk": {
+        "title": "ත්‍රිරෝද රථ භාවිතයේදී:",
+        "tip1": "ගමන් ආරම්භයේදීම මීටර් පනිවුඩය ක්‍රියාත්මකදැයි පරීක්ෂා කරන්න",
+        "tip2": "මීටර් නැත්නම් මිල පළමුව එකඟවන්න",
+        "tip3": "PickMe හෝ Uber භාවිතය වඩාත් සුදුසුයි"
+      },
+      "taxi": {
+        "title": "ටැක්සි භාවිතයේදී:",
+        "tip1": "Kangaroo Cabs වලට 011-2588588 දුරකථනයෙන් කතා කරන්න",
+        "tip2": "ගුවන් තොටුපළට යන විට පෙරදිනම බුක් කරන්න",
+        "tip3": "නාගරික ප්‍රදේශවල PickMe වඩාත් ජනප්‍රියයි"
+      }
+    }
+  },
+  "routePlanner": {
+    "badge": "මාර්ග සෙවීම",
+    "title": "ඔබේ ගමන",
+    "titleHighlight": "සැලසුම් කරන්න",
+    "description": "පිටත්වීමේ ස්ථානය සහ ගමනාන්තය ඇතුළත් කර වඩාත් සුදුසු ප්‍රවාහන ක්‍රමය සොයන්න",
+    "form": {
+      "from": "පිටත්වීමේ ස්ථානය",
+      "to": "ගමනාන්තය",
+      "date": "දිනය",
+      "placeholder": "ස්ථානය තෝරන්න",
+      "search": "සොයන්න"
+    },
+    "results": {
+      "title": "ලබා ගත හැකි විකල්ප",
+      "bus": {
+        "name": "බස් රථ",
+        "duration": "පැය 4-5"
+      },
+      "train": {
+        "name": "දුම්රිය",
+        "duration": "පැය 3-4"
+      },
+      "flight": {
+        "name": "ගුවන් යානය",
+        "duration": "මිනිත්තු 30"
+      }
+    },
+    "quickLinks": {
+      "schedule": "කාලසටහන",
+      "fares": "මිල ගණන්",
+      "booking": "වෙන් කිරීම",
+      "support": "සහාය"
+    }
+  },
+  "footer": {
+    "description": "ශ්‍රී ලංකාවේ ප්‍රවාහන සේවාවන් පිළිබඳ සම්පූර්ණ තොරතුරු එකම ස්ථානයකින්. ගුවන්, දුම්රිය, බස් රථ සහ වෙනත් සියලුම ප්‍රවාහන තොරතුරු.",
+    "quickLinks": "ඉක්මන් සබැඳි",
+    "resources": "සම්පත්",
+    "contact": "සම්බන්ධතා",
+    "address": "ශ්‍රී ලංකා ප්‍රවාහන මණ්ඩලය, කොළඹ 10, ශ්‍රී ලංකාව",
+    "phone": "+94 11 2588 588",
+    "email": "info@transport.lk",
+    "copyright": "© 2025 ශ්‍රී ලංකා ප්‍රවාහන සේවා. සියලුම හිමිකම් ඇවිරිණි.",
+    "privacy": "රහස්‍යතා ප්‍රතිපත්තිය",
+    "terms": "නියම",
+    "policy": "ප්‍රතිපත්තිය"
+  }
+}
